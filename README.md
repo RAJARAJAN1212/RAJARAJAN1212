@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <a href="https://twitter.com/rajarajan__12" target="blank"><img src="https://img.shields.io/twitter/follow/rajarajan__12?logo=twitter&style=for-the-badge" alt="rajarajan__12" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **Android**
 
